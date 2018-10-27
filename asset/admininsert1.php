@@ -1,5 +1,5 @@
 <?php
-
+//<!--Divyani trivedi-->
 	$con =mysqli_connect('127.0.0.1','root','','guide_validator');
 	
 	if (!$con)
